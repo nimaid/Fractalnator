@@ -22,7 +22,12 @@
 
 #### Click the thumbnail to open the video.
 
+"Fractalnator" Tech Demo #1 v0.2 - Experimentation Session
+
 [<img width="500" alt="&quot;Fractalnator&quot; Tech Demo #1 v0.2 - Experimentation Session" src="https://img.youtube.com/vi/72hYj_lVbqA/maxresdefault.jpg">](https://www.youtube.com/watch?v=72hYj_lVbqA)
+
+"Fractalnator" VR Tech Demo #1
+
 [<img width="500" alt="&quot;Fractalnator&quot; VR Tech Demo #1" src="https://img.youtube.com/vi/lIAKipPsrMQ/maxresdefault.jpg">](https://www.youtube.com/watch?v=lIAKipPsrMQ)
 
 ### Screenshots:
