@@ -3,7 +3,7 @@
 
 View the most recent tech demo footage:
 
-[<img width="750" alt="&quot;Fractalnator&quot; Tech Demo #2" src="https://img.youtube.com/vi/w8BUUZe_QHw/maxresdefault.jpg">](https://www.youtube.com/watch?v=w8BUUZe_QHw)
+[<img width="500" alt="&quot;Fractalnator&quot; Tech Demo #2" src="https://img.youtube.com/vi/w8BUUZe_QHw/maxresdefault.jpg">](https://www.youtube.com/watch?v=w8BUUZe_QHw)
 
 ---
 
