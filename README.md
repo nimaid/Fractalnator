@@ -1,8 +1,6 @@
 # Fractalnator
 ### A trippy VR video feedback experience.
 
----
-
 ## Tech Demo 2
 #### Click the thumbnail to open the video.
 
