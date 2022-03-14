@@ -6,7 +6,7 @@ Currently, this is in the pre-development phase. This is a prototype to use as I
 ## Tech Demo 2
 [View and download on itch.io](https://nimaid.itch.io/fractalnator-tech-demo-2)
 
-### Video
+### Video:
 #### Click the thumbnail to open the video.
 
 "Fractalnator" Tech Demo #2
@@ -24,7 +24,7 @@ Currently, this is in the pre-development phase. This is a prototype to use as I
 ## Tech Demo 1
 [View and download on itch.io](https://nimaid.itch.io/fractalnator-tech-demo-1)
 
-### Videos
+### Videos:
 #### Click the thumbnail to open the video.
 
 "Fractalnator" Tech Demo #1 v0.2 - Experimentation Session
