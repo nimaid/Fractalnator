@@ -21,8 +21,6 @@ Currently, this is in the pre-development phase. This is a prototype to use as I
 | <img width="350" alt="vlcsnap-2022-03-10-04h22m02s299.png" src="README_assets/Example Images/TD2/vlcsnap-2022-03-10-04h22m02s299.png"> | <img width="350" alt="vlcsnap-2022-03-10-04h29m37s380.png" src="README_assets/Example Images/TD2/vlcsnap-2022-03-10-04h29m37s380.png"> |
 | <img width="350" alt="vlcsnap-2022-03-10-04h10m40s823.png" src="README_assets/Example Images/TD2/vlcsnap-2022-03-10-04h10m40s823.png"> | <img width="350" alt="vlcsnap-2022-03-10-04h25m57s189.png" src="README_assets/Example Images/TD2/vlcsnap-2022-03-10-04h25m57s189.png"> |
 
----
-
 ## Tech Demo 1
 [View and download on itch.io](https://nimaid.itch.io/fractalnator-tech-demo-1)
 
